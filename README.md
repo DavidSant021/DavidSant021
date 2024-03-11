@@ -17,7 +17,7 @@
   <a href="https://www.linkedin.com/in/david-santiago-251728292/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" height="30px"></a> 
 </div>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=DavidSant021&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="DavidSant' github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidsant021&layout=compact&theme=dark&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=davidsant021&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="DavidSant' github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidsant021&layout=compact&theme=dark&hide_border=true" /></a> |
 | ------------- | ------------- |
 <!--
 **DavidSant021/DavidSant021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
